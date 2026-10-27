@@ -1,25 +1,34 @@
-# Hi, I'm Ungu 👋
+# Hi, I'm Ungu! 👋
 
-Columbia student in New York, building AI agents and little tools that make life in a new city easier. I like finding free stuff, so most of what I build ends up helping people do that. ✨
+I turn data into insights, insights into decisions, and ideas into real-world solutions.
 
-<!-- EDIT: change the line above to say what you really do and what you're looking for, e.g. "Looking for summer 2027 internships in ..." -->
+Before pursuing my M.S. in Data Science at Columbia University, I worked at Telkom Indonesia, where I led broadband operations, collaborated with cross-functional teams, and developed digital solutions to improve operational efficiency and customer experience.
 
-🌐 **Portfolio:** [ungu-maharunti.github.io/portfolio](https://ungu-maharunti.github.io/portfolio/)
+Now, I'm expanding my expertise in machine learning, statistical modeling, and responsible AI, with a particular interest in building data-driven solutions that are not only technically effective but also practical, interpretable, and impactful.
 
-## Things I've built
+I'm completing my M.S. in Data Science at Columbia University (December 2026), bringing together my experience in business operations and my passion for solving real-world problems through data.
 
-- **New in NYC** – AI helpers for students new to New York: apartments, free events and furniture. I built the free-events helper, which plans a day from free events and pop-ups with travel and wait estimates. Made with two teammates. *(Python, Gemini, tool calling, Cloud Run)*
-- **Project title** – one line on what it is and what you did. [Slides](#)
-- **Another project** – one line on what it is and what you did. [PDF](#)
+## 🚀 Featured Work
 
-## What I work with
+**Responsible AI & LLM Fairness Evaluation · Columbia University**
+Developing a model-agnostic framework to evaluate fairness and bias in large language models, with a focus on protected classes under New York State and New York City human rights laws. Exploring benchmark design, stereotype evaluation, and quantitative fairness metrics to support responsible AI adoption in the public sector.
 
-Python · FastAPI · Gemini · LLM tool calling · Google Cloud Run · Git
+**Machine Learning & Statistical Modeling · Columbia University**
+Applying supervised and unsupervised learning, statistical inference, and model evaluation to real-world data. Exploring predictive modeling, clustering, dimensionality reduction, and interpretable machine learning.
 
-<!-- EDIT: add or remove tools you actually use -->
+**Digital Operations & Process Innovation · Telkom Indonesia**
+Led cross-functional broadband fulfillment operations and developed technology-driven initiatives to improve operational visibility, service delivery, and customer experience. Recognized for innovation and business performance at organizational and national levels.
 
-## Find me
+## 🛠️ Areas of Interest
 
-- 📫 Email: YOUR_EMAIL@example.com
-- 💼 LinkedIn: <!-- paste your LinkedIn link here -->
-- 🌐 Portfolio: [ungu-maharunti.github.io/portfolio](https://ungu-maharunti.github.io/portfolio/)
+- Applied Machine Learning & Predictive Analytics
+- Responsible AI & Model Fairness
+- Statistical Modeling & Data Visualization
+- Customer Analytics & Personalization
+- Data-Driven Business Strategy
+
+## 📫 Find me
+
+- Portfolio: [ungu-maharunti.github.io/portfolio](https://ungu-maharunti.github.io/portfolio/)
+- Email: YOUR_EMAIL@example.com
+- LinkedIn: <!-- paste your LinkedIn link here -->
